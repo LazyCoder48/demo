@@ -22,36 +22,4 @@
     "due": "<=3h",
     "detected": "2018-07-05 10:28",
     "zoneManager": "Zone Manager B"
-}, {
-    "typeOfDetection": "Pre-emptive prediction",
-    "specification": "Grid power outage",
-    "status": "Open",
-    "siteName": "BA9149B",
-    "due": "<=2h",
-    "detected": "2018-07-05 10:02",
-    "zoneManager": "Zone Manager C"
-}, {
-    "typeOfDetection": "Deviation detection",
-    "specification": "High",
-    "status": "Open",
-    "siteName": "BA9146B",
-    "due": "<=2h",
-    "detected": "2018-07-05 10:19",
-    "zoneManager": "Zone Manager B"
-}, {
-    "typeOfDetection": "KPI degradation",
-    "specification": "Throughput",
-    "status": "Open",
-    "siteName": "BA9122C",
-    "due": "<=3h",
-    "detected": "2018-07-05 10:28",
-    "zoneManager": "Zone Manager B"
-}, {
-    "typeOfDetection": "Pre-emptive prediction",
-    "specification": "Grid power outage",
-    "status": "Open",
-    "siteName": "BA9149B",
-    "due": "<=2h",
-    "detected": "2018-07-05 10:02",
-    "zoneManager": "Zone Manager C"
 }]
